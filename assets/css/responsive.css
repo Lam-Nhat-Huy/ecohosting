@@ -242,4 +242,7 @@
   footer {
     display: none;
   }
+  .package-main {
+    margin-top: 40px;
+  }
 }
